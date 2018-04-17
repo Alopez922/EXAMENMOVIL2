@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cell phone</string>
+    <string name="PromNokia">average price of nokia cell phones</string>
+    <string name="agregar">Add</string>
+    <string name="android">Android</string>
+    <string name="apple">Apple</string>
+    <string name="appleNegro">Amount black Apple cell phones</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="cancelar">ERASE</string>
+    <string name="celularAd">Create cellphone</string>
+    <string name="color">Color:</string>
+    <string name="crear">Create</string>
+    <string name="error">Type the price</string>
+    <string name="error1">Type the RAM</string>
+    <string name="error2">The price can not be 0</string>
+    <string name="error3">The RAM can not be 0</string>
+    <string name="huawei">Huawei</string>
+    <string name="huaweiBlancoAndroid">The cheapest Huawei cell phone white with Android</string>
+    <string name="ios">IOS</string>
+    <string name="listaReportes">LIST OF REPORTS</string>
+    <string name="marca">Brand:</string>
+    <string name="mensajeApple">the amount of black Apple cell phones are:</string>
+    <string name="mensajeExitoso">Cell phone saved</string>
+    <string name="mensajeNokia">The average price of Nokia cell phones is:</string>
+    <string name="mostrar">Show</string>
+    <string name="negro">Black</string>
+    <string name="nokia">Nokia</string>
+    <string name="numero">No.</string>
+    <string name="opciones">Options</string>
+    <string name="precio">Price:</string>
+    <string name="ram">Ram:</string>
+    <string name="registro">RECORDS</string>
+    <string name="registros">All Records</string>
+    <string name="rojo">Red</string>
+    <string name="samsung">Samsung</string>
+    <string name="samsungNegroAndroid">Phone samsung black color with android</string>
+    <string name="samsungRam">Samsung cell phones with 2 to 4 ram</string>
+    <string name="sistemaOp">OS:</string>
+    <string name="todos">All records</string>
+    <string name="windowsPhone">Windows Phone</string>
+</resources>

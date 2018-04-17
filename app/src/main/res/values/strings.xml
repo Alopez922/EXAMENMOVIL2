@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Celular</string>
+    <string name="opciones">Opciones</string>
+    <string-array name="arrayOpc">
+        <item>@string/crear</item>
+        <item>@string/mostrar</item>
+    </string-array>
+    <string-array name="arrayOpcMostrar">
+        <item>@string/todos</item>
+        <item>@string/samsungNegroAndroid</item>
+        <item>@string/samsungRam</item>
+        <item>@string/huaweiBlancoAndroid</item>
+        <item>@string/appleNegro</item>
+        <item>@string/PromNokia</item>
+    </string-array>
+    <string-array name="marcaCel">
+        <item>@string/samsung</item>
+        <item>@string/apple</item>
+        <item>@string/nokia</item>
+        <item>@string/huawei</item>
+    </string-array>
+    <string-array name="sistemCel">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+        <item>@string/windowsPhone</item>
+    </string-array>
+    <string-array name="colorCel">
+        <item>@string/negro</item>
+        <item>@string/azul</item>
+        <item>@string/blanco</item>
+        <item>@string/rojo</item>
+
+    </string-array>
+    <string name="crear">Crear</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="celularAd">Crear Celular</string>
+    <string name="agregar">Agregar</string>
+    <string name="cancelar">Borrar</string>
+    <string name="precio">Precio:</string>
+    <string name="ram">Ram:</string>
+    <string name="marca">Marca:</string>
+    <string name="sistemaOp">Sistema operativo:</string>
+    <string name="color">Color:</string>
+    <string name="mensajeExitoso">Celular guardado</string>
+    <string name="listaReportes">LISTA DE REPORTES</string>
+    <string name="samsungNegroAndroid">Celular  Samsung negro con Android</string>
+    <string name="samsungRam">Celulares Samsung de 2 a 4 de Ram</string>
+    <string name="huaweiBlancoAndroid">El celular Huawei barato color blanco con Android</string>
+    <string name="appleNegro">Número de celulares apple color negro</string>
+    <string name="PromNokia">Promedio de los precios de los celulares Nokia</string>
+    <string name="samsung">Samsung</string>
+    <string name="apple">Apple</string>
+    <string name="nokia">Nokia</string>
+    <string name="huawei">Huawei</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="windowsPhone">Windows Phone</string>
+    <string name="negro">Negro</string>
+    <string name="azul">Azul</string>
+    <string name="blanco">Blanco</string>
+    <string name="rojo">Rojo</string>
+    <string name="todos">Todos los registros</string>
+    <string name="numero">No.</string>
+    <string name="registros">Todos los Registros</string>
+    <string name="mensajeApple">El número de celulares Apple color negro son:</string>
+    <string name="registro">REGISTROS</string>
+    <string name="mensajeNokia">El precio promedio de los celulares marca Nokia es:</string>
+    <string name="error">Digite el precio</string>
+    <string name="error1">Digite la RAM</string>
+    <string name="error2">El precio no puede ser 0</string>
+    <string name="error3">La RAM no puede ser 0</string>
+</resources>
